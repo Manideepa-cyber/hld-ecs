@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws": "^0.0.3-2",
+    "choco": "^0.2.1",
     "express": "^4.19.2"
   }
 }
